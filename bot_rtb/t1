@@ -1,0 +1,8 @@
+Robots: 
+/usr/lib/realtimebattle/Robots/javierkno.10.robot 
+/usr/lib/realtimebattle/Robots/seek_and_destroy.robot 
+Arenas: 
+/usr/lib/realtimebattle/Arenas/ra4.arena 
+Robots/Sequence: 2
+Games/Sequence: 1
+Sequences: 1
